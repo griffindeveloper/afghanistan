@@ -1,0 +1,63 @@
+body{margin:0;font-size:.7em;font-family:Verdana, Arial, Helvetica, sans-serif;background:#EEEEEE;}
+h1{font-size:2.4em;margin:0;color:#FFF;text-align: center;}
+#header{width:96%;margin:0 0 0 0;padding:6px 2% 2px 2%;font-family:"trebuchet MS", Verdana, sans-serif;color:#FFF;
+background-color:#373A3C;}
+
+h2{margin:0;color:#FFF;text-align: center;}
+
+.discord{
+    width: 50px;
+    height: 50px;
+    float: right;
+    margin: 20px;
+    position: unset;
+    margin-top: -53px;
+}
+
+.twitter{
+    width: 50px;
+    height: 50px;
+    float: right;
+    margin: 20px;
+    position: unset;
+    margin-top: -53px;
+}
+
+.logo{
+    width: 50px;
+    height: 50px;
+    float: left;
+    margin: 20px;
+    margin-left: 490px;
+    position: unset;
+    margin-top: -60px;
+}
+
+h3{
+    font-size: 20px;
+    text-align: center;
+    font-family: "trebuchet MS", Verdana, sans-serif;
+    margin-top: 90px;
+}
+
+.extlogo{
+    width: 600px;
+    height: 300px;
+    margin: 0%;
+    margin-left: 160px;
+}
+
+.container {
+    background-color: #ffd8be;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 25px;
+}
+
+.text {
+    color: black;
+    text-align: center;
+    font-size: 25px;
+    font-family: "trebuchet MS", Verdana, sans-serif;
+}
+

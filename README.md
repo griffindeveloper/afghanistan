@@ -1,1 +1,1 @@
-# afghanistan
+# SovereignPowers
